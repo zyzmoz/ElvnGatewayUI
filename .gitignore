@@ -1,0 +1,11 @@
+# Node 
+.cache*
+node_modules/
+dist/
+yarn.lock
+*.sqlite
+*.js
+__test__/
+.vscode
+
+*.log
