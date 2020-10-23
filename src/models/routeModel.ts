@@ -3,7 +3,7 @@ export interface IRoute {
   url: string,
   target: string,
   webSocket: boolean,
-  ignorebasePath: boolean,
+  ignoreBasePath: boolean,
   created_at: string,
   updated_at: string
 }
